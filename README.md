@@ -30,3 +30,16 @@ List of programs
 
 
 [7 ] - Support Vector Machines (SVM) [MATLAB]
+
+
+
+------------------------------------
+Assignments:
+
+[1] - Clustering: k means and k-medoids -- employing for Image Compression
+
+[2] - Text Clustering using EM algorithm 
+
+[3] - Recommender Systems: Regression and Ridge Regression on Netflix data
+
+[4] - Hidden Markov Model (HMM) 
