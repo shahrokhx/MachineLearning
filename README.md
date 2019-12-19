@@ -2,21 +2,31 @@
 All Practice Codes for Machine Learning and Computational Data Analysis
 
 
+
 List of programs
 
-Clustering (k-means) [MATLAB]
-Clustering (k-means) [Python]
+[1a] - Clustering (k-means) [MATLAB]
 
-Spectral Clustering  [MATLAB]
-Spectral Clustering  [Python]
+[1b] - Clustering (k-means) [Python]
 
-Dimension Reduction (PCA and ISOMAP)  [MATLAB]
 
-Density Estimation & GMM  [MATLAB]
-Density Estimation & GMM  [Python]
+[2a] - Spectral Clustering  [MATLAB]
 
-Feature Selection [MATLAB]
+[2b] - Spectral Clustering  [Python]
 
-Naive Bayesian & KNN [MATLAB]
 
-Support Vector Machines (SVM) [MATLAB]
+[3 ] - Dimension Reduction (PCA and ISOMAP)  [MATLAB]
+
+
+[4a] - Density Estimation & GMM  [MATLAB]
+
+[4b] - Density Estimation & GMM  [Python]
+
+
+[5 ] - Feature Selection [MATLAB]
+
+
+[6 ] - Naive Bayesian & KNN [MATLAB]
+
+
+[7 ] - Support Vector Machines (SVM) [MATLAB]
